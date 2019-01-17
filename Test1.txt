@@ -1,0 +1,29 @@
+Account built as requested.
+
+To log into the VPN to get access, please have the user do the following:
+
+1. Navigate to office.billingsclinic.org and log in with the following
+?	Username: @billingsclinic.org
+	Password: 
+	
+2. Set a new password
+
+3. Set up MFA (Multi-Factor Authentication)
+
+4. Navigate to vpn.billingsclinic.org and log in with the following
+	Username: 
+	Password: *Password that was set in step 2*
+
+5. Verify using MFA
+	
+6. Download and install the VPN client (Cisco AnyConnect)
+
+7. Launch the application and in Connect field enter: vpn.billingsclinic.org
+
+8. Sign in with the following:
+	Username: 
+	Password: *Password that was set in step 2*
+	
+9. Verify using MFA
+
+10. VPN connection should be successful and state connected.
