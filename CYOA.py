@@ -11,6 +11,7 @@ class TreeNode():
     
   def traverse(self):
     story_node = self
+	print("Once upon a time...")
     print(story_node.story_piece)
     while story_node.choices != []:
       choice = input("Enter 1 or 2 to continue the story: ")
@@ -25,8 +26,6 @@ class TreeNode():
 ######
 # VARIABLES FOR TREE
 ######
-print("Once upon a time...")
-
 story_root = TreeNode(
 """You are in a forest clearing. There is a path to the left.
 A bear emerges from the trees and roars!
